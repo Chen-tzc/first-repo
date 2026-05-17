@@ -1,2 +1,1 @@
-# first-repo
-python
+# 我的第一个项目
